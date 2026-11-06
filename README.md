@@ -16,3 +16,7 @@ A responsive static landing page for MY DOSO by Dosani Labs.
 - `assets/screenshots/` — the two actual app screenshots supplied for the website
 
 No build step or framework is required. The site is static HTML, CSS and JavaScript.
+
+## Android download
+The website download buttons link to the MY DOSO v1.0.0 APK GitHub Release:
+https://github.com/dosanilabs/my-doso/releases/download/v1.0.0/MY-DOSO-v1.0.0.apk
